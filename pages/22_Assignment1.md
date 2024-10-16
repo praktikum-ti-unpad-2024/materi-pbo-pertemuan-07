@@ -6,7 +6,7 @@ layout: center
 
 <div class='center row'>
 
-Buat 4 buah unchecked exception dari list dibawah sesuai pembagian pada sheets "https://docs.google.com/spreadsheets/d/1dm0Nnhfq7CM7mTLUL80B7zaKNfoZWyg_wSI1B6teajY/edit?usp=sharing", dan cari tahu:
+Buat 4 buah checked exception dari list dibawah sesuai pembagian pada sheets "https://docs.google.com/spreadsheets/d/1dm0Nnhfq7CM7mTLUL80B7zaKNfoZWyg_wSI1B6teajY/edit?usp=sharing", dan cari tahu:
 
 <div class="grid grid-cols-2 gap-y-10 gap-x-16 mb-4">
 <div>
